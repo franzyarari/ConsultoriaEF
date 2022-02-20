@@ -390,10 +390,10 @@ html {
   .Logo-Ins-Index img {
     display: none;
   }
-  .mapa {
+  /* .mapa {
     width: 300px;
     height: 250px;
-  }
+  } */
   .letras-slider {
     width: 80%;
     margin: auto;
